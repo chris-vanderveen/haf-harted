@@ -1,7 +1,3 @@
-Here are clear instructions for a beginner on Windows to set up and run your Three.js project in VS Code:
-
----
-
 # Getting Started
 
 ## 1. Install Visual Studio Code
