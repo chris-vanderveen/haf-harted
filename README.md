@@ -39,7 +39,7 @@ Here are clear instructions for a beginner on Windows to set up and run your Thr
   loader.load(
     "YOUR FILE NAME HERE",
   ```
-- Replace `"YOUR FILE NAME HERE"` with your file name, e.g. `"public/myModel.glb"`.
+- Replace `"YOUR FILE NAME HERE"` with your file name, e.g. `"myModel.glb"`.
 
 ## 7. Install Node.js and npm
 
